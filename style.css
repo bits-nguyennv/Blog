@@ -87,11 +87,17 @@
      float: left;
      width:100% ;
 }
+.b-2:hover {
+    background: lightpink;
+}
 .b-3 {
      background: hotpink;
      height:20% ;
      float: left;
      width:100% ;
+}
+.b-3:hover {
+    background: lightskyblue;
 }
 .b-4 {
 
@@ -99,6 +105,10 @@
      height:20% ;
      float: left;
      width:100% ;
+
+}
+.b-4:hover {
+    background: lightyellow;
 }
 .b-5 {
      background:crimson;
@@ -106,5 +116,8 @@
      float: left;
      width:100% ;
 
+}
+.b-5:hover {
+  background: mediumpurple;
 }
 
