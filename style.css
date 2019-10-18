@@ -1,0 +1,110 @@
+
+.header {
+    height: 100px;
+    background: darkturquoise;
+    text-align: center;
+ }
+.content {
+     height:1500px;
+     background: royalblue;
+     margin-top:2% ;
+   
+    
+ }
+.footer {
+     height: 100px;
+     background: olive ;
+     margin-top:5% ;
+ }
+   .q-40 {
+     width: 40%;
+     height: 100%;
+     background: orchid;
+     float: right;
+ }
+     .b-12 {
+     background: rosybrown;
+     height: 35%;
+      width: 100%;
+     border: 0;
+     float: inherit;
+     margin-left:2% ;
+     padding-left:2% ;
+    }
+     .b-11 {
+     background: lawngreen;;
+     height: 33%;
+     width: 100%;
+     border: 0;
+     float: right;
+     margin-top: 2% ;
+    }
+     .b-10 {
+     background: silver;
+     height:10%;
+     width:100% ;
+     float: right;
+     margin-top:2% ;
+    
+}   
+.q-60 {
+     width: 60%;
+     height: 100%;
+     background: seagreen;
+     float: right;
+ }
+   .b-9 {
+     background: darkgray;
+     height: 50%;
+     width: 98%;
+     float: left;
+     margin-left: ;
+     line-height:35px ;
+    
+    
+ }
+ .b-8 {
+     background: yellowgreen;
+     height:40% ;
+     width:98% ;
+     float: left;
+     margin-top:2% ;
+ }
+.aligncenter {
+ text-align: right;
+}
+.b-1 {
+     background: grey;
+     height: 20% ;
+     width: 100%;
+     float: left;
+     padding:2% ;
+      
+}
+.b-2 {
+     background: tomato;
+     height:20% ;
+     float: left;
+     width:100% ;
+}
+.b-3 {
+     background: hotpink;
+     height:20% ;
+     float: left;
+     width:100% ;
+}
+.b-4 {
+
+     background: midnightblue;
+     height:20% ;
+     float: left;
+     width:100% ;
+}
+.b-5 {
+     background:crimson;
+     height:20% ;
+     float: left;
+     width:100% ;
+
+}
+
