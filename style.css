@@ -17,7 +17,7 @@
 .footer {
      height: 150px;
      background: olive ;
-     margin-top: 2%;
+     margin-top: 1%;
      text-align: center;
      
  }
@@ -142,7 +142,7 @@
 .comment {
     text-align: right;
     font-weight: bold;
-    margin:20px ;
+    margin:2px ;
     font-size:20px ;
     color: brown;
   
@@ -197,3 +197,15 @@
     padding-right: 8px;
     text-align: center;
 }
+.comment-2 {
+     float: right!important;
+     padding: 12px 24px!important;
+     
+
+
+
+
+
+
+
+
